@@ -29,3 +29,4 @@ bs4==0.0.1
 mediainfo
 cloudscraper
 helper
+yt-dlp==2021.7.24
